@@ -10,3 +10,5 @@ https://nbviewer.jupyter.org/github/NataliaKusek/airbnb-disertation/blob/master/
 
 https://nbviewer.jupyter.org/github/NataliaKusek/airbnb-disertation/blob/master/5.%20Research%20question%203%20-%20topic%20detection%20preprocessing%20final%20version.ipynb
 
+https://nbviewer.jupyter.org/github/NataliaKusek/airbnb-disertation/blob/master/6.%20Research%20question%203%20-%20topic%20detection%20STTM%20final%20version%20.ipynb
+
